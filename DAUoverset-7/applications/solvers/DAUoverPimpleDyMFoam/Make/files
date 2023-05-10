@@ -1,0 +1,3 @@
+DAUoverPimpleDyMFoam.C
+
+EXE = $(FOAM_APPBIN)/DAUoverPimpleDyMFoam
